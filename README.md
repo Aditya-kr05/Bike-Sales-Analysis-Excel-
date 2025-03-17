@@ -1,0 +1,1 @@
+This interactive Excel dashboard provides a detailed analysis of bike sales trends, offering key insights into customer demographics, purchasing behavior, and sales distribution. The dashboard helps businesses make data-driven decisions by identifying factors influencing bike purchases.
